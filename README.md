@@ -31,7 +31,7 @@ src/
 ### 1. Clone the repository
 ```
 
-git clone ""
+git clone "https://github.com/Kathirvel-123/FreshCart_app4.git"
 
 ```
 
